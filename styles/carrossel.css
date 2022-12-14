@@ -102,3 +102,42 @@
         margin: 2em auto;
     }
 }
+
+/* CSS da versão para Deskto - 1728px */
+
+@media screen and (min-width: 1728px) {
+    .carrossel__container {
+        display: flex;
+        margin: 0 20vw 3em 20vw;
+        align-items: center;
+    }
+
+    .swiper-pagination {
+        margin: 1em 0;
+    }
+
+    .swiper {
+        width: 50%;
+    }
+
+    .descricao__titulo {
+        font-size: 32px;
+        margin-bottom: .6em;
+    }
+
+    .descricao__texto {
+        margin-top: .6em;
+        font-size: 16px;
+    }
+
+    .descricao {
+        height: 200px;
+        margin-right: 10em;
+    }
+
+    .card {
+        width: 60%;
+        margin-left: 4em;
+        margin-top: 4.5em;
+    }
+}

@@ -48,3 +48,15 @@
     }
 }
 
+/* CSS da versão para Deskto - 1728px */
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 4em 30.5vw;
+    }
+
+    .topicos__titulo {
+        font-size: 32px;
+    }
+}
+

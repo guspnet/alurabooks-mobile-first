@@ -59,3 +59,11 @@
         width: 30%;
     }
 }
+
+/* CSS da versão para Deskto - 1728px */
+
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 4em 28vw;
+    }
+}
