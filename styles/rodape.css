@@ -48,6 +48,10 @@ hr{
         text-decoration: none;
         margin-left: .6em;
     }
+
+    .lista-rodape__link:hover {
+        color: var(--laranja);
+    }
 }
 
 /* CSS da versão para Deskto - 1728px */

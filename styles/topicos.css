@@ -29,6 +29,11 @@
     font-weight: 700;
 }
 
+.topicos__link:hover {
+    color: var(--laranja);
+    background-color: var(--branco);
+}
+
 /* Media queries para Tablet - 1024px*/
 
 @media screen and (min-width: 1024px) {
